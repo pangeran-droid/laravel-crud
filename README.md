@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<h1 align="center">CRUD Produk Laravel</h1>
+<h1 align="center">Laravel CRUD</h1>
 
 <p align="center">Aplikasi sederhana untuk mengelola data produk menggunakan Laravel.</p>
 
