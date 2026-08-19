@@ -47,3 +47,7 @@ http://127.0.0.1:8000
 
 Halaman Produk
 http://127.0.0.1:8000/produk
+
+## License
+
+This project is open-sourced software licensed under the [MIT License](https://opensource.org/licenses/MIT).
